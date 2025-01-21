@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "progress_update.html#what-to-do",
+    "href": "progress_update.html#what-to-do",
+    "title": "Progress Updates",
+    "section": "What to do?",
+    "text": "What to do?\nCreate an instrument that can detect risks of getting positional obstructive sleep apneas (POSA) using two factors:\n\nSnoring sound\nSupine (lies flat) position of the sleeper\n\nIf the instrument detects both factors, it will vibrate to encourage position changing of the sleeper."
+  },
+  {
+    "objectID": "progress_update.html#relevant-studies",
+    "href": "progress_update.html#relevant-studies",
+    "title": "Progress Updates",
+    "section": "Relevant studies",
+    "text": "Relevant studies\n[1]: Tareq Khan, A Deep Learning Model for Snoring Detection and Vibration Notification Using a Smart Wearable Gadget.\nDownload PDF file."
+  },
+  {
+    "objectID": "progress_update.html#microcontroller-to-use",
+    "href": "progress_update.html#microcontroller-to-use",
+    "title": "Progress Updates",
+    "section": "Microcontroller to use",
+    "text": "Microcontroller to use\n\n\nSeeed Studio XIAO nRF52840 Sense\n\nBuilt-in microphone\nBuilt-in IMU sensor (accelerometer & gyrometer)\nProgrammable using Arduino or MicroPython languages through USB-C interface\nSupports Bluetooth 5.0\n\nClick here for more info.\n\n\n\n\n\n\n\n\n\nFront view\n\n\n\n\n\nBack view\n\n\n\n\nFigure 1: Hardware overview of the microcontroller"
+  },
+  {
+    "objectID": "progress_update.html#references",
+    "href": "progress_update.html#references",
+    "title": "Progress Updates",
+    "section": "References",
+    "text": "References\n\n\n[1] T. Khan, “A deep learning model for snoring detection and vibration notification using a smart wearable gadget,” Electronics, vol. 8, no. 9, p. 987, Sep. 2019, doi: 10.3390/electronics8090987.\n\n\n[2] K. Qian et al., “Can machine learning assist locating the excitation of snore sound? A review,” IEEE Journal of Biomedical and Health Informatics, vol. 25, no. 4, pp. 1233–1246, Apr. 2021, doi: 10.1109/JBHI.2020.3012666.\n\n\n[3] A. Rotaru, Tiny machine learning snoring detection model for embedded devices. Available: https://github.com/adrianagaler/Snoring-Detection"
+  }
+]
